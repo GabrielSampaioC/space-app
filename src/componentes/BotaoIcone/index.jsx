@@ -10,4 +10,4 @@ const BotaoIcone = styled.button`
     cursor: pointer;
 `
 
-export default BotaoIcone;
+export default BotaoIcone
